@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello i make stuff, made the TSL backend and some other cool stuff
 
 <!--
 **duofresh/duofresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
