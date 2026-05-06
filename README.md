@@ -14,7 +14,7 @@ I enjoy building scalable systems and "cool stuff" that solves real problems. Be
 ---
 
 ### 🛠️ Tech Stack & Tools
-*   **Languages:** JavaScript, TypeScript, Python, C, Java, Rust (Learning)
+*   **Languages:** JavaScript, TypeScript, Python, C, Java, C#, Rust (Learning)
 *   **Backend:** Node.js, Express, Fastify, PostgreSQL, Redis, Spring
 *   **DevOps:** Docker, GitHub Actions
 
