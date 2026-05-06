@@ -1,17 +1,32 @@
-## Hello i make stuff, made the TSL backend and some other cool stuff
+# Hi there, I'm duofresh 👋
 
-<!--
-**duofresh/duofresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Software Engineer (i don't have an engineering degree [yet]) & Backend Specialist
+I enjoy building scalable systems and "cool stuff" that solves real problems. Best known for architecting the **TSL backend**, I focus on performance, clean code, and making things work seamlessly under the hood.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats-rose-eta-86.vercel.app/api/top-langs/?username=duofresh)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 What I'm Up To
+*   **🔭 Working on:** Refining backend architectures and exploring high-concurrency systems.
+*   **🌱 Learning:** Deep diving into system design patterns and cloud-native technologies.
+*   **👯 Collaborating:** Open to interesting backend or full-stack projects that challenge the status quo.
+*   **💬 Ask me about:** Node.js, API design, database optimization, and why the backend is the best part of the stack.
+
+---
+
+### 🛠️ Tech Stack & Tools
+*   **Languages:** JavaScript, TypeScript, Python, C, Java, Rust (Learning)
+*   **Backend:** Node.js, Express, Fastify, PostgreSQL, Redis, Spring
+*   **DevOps:** Docker, GitHub Actions
+
+---
+
+### 📊 My Coding Stats
+[![Anurag's GitHub stats](https://github-readme-stats-rose-eta-86.vercel.app/api/top-langs/?username=duofresh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Get in Touch
+*   **Discord:** @duofresh
+*   **Fun Fact:** I like pizza.
+
+---
