@@ -1,6 +1,6 @@
 # Hi there, I'm duofresh 👋
 
-### 🛠️ Software Engineer (i don't have an engineering degree [yet]) & Backend Specialist
+### 🛠️ Full-stack developer & Backend Specialist
 I enjoy building scalable systems and "cool stuff" that solves real problems. Best known for architecting the **TSL backend**, I focus on performance, clean code, and making things work seamlessly under the hood.
 
 ---
